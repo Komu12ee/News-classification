@@ -1,0 +1,13 @@
+# streamlit
+pandas
+numpy
+seaborn
+matplotlib
+scikit-learn
+nltk
+catboost
+xgboost
+Flask
+# dill==0.4.0
+wordcloud
+# -e .
